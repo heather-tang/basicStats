@@ -110,5 +110,3 @@ round(8/(8+3), digit = 3)
 
 # What kind of education is linked to more money?
 "university"
-
-
